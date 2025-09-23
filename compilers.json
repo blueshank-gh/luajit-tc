@@ -1,0 +1,8 @@
+{
+    "Windows": {
+        "AMD64": {
+            "architectures": ["x64"],
+            "compilers": ["MSVC"]
+        }
+    }
+}
